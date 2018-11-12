@@ -1,0 +1,9 @@
+engine/Artigo.class
+engine/Colaborador.class
+engine/Artigos.class
+engine/ColaboradorComparator.class
+common/MyLog.class
+li3/Interface.class
+engine/QueryEngineImpl.class
+engine/Revisao.class
+li3/Main.class

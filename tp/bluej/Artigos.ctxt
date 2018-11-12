@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Artigos
+comment1.params=
+comment1.target=Artigos()
+comment2.params=artigos
+comment2.target=Artigos(java.util.List)
+comment3.params=a2
+comment3.target=Artigos(Artigos)
+comment4.params=
+comment4.target=java.util.List\ getArtigos()
+comment5.params=
+comment5.target=long\ contaRep()
+comment6.params=as
+comment6.target=void\ setArtigos(java.util.List)
+comment7.params=
+comment7.target=Artigos\ clone()
+comment8.params=o
+comment8.target=boolean\ equals(java.lang.Object)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

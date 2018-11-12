@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Artigo
+comment1.params=
+comment1.target=Artigo()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=titulo\ idRev\ data\ nbytes\ npalavras
+comment2.target=Artigo(java.lang.String,\ long,\ java.lang.String,\ long,\ long)
+comment3.params=a2
+comment3.target=Artigo(Artigo)
+comment4.params=
+comment4.target=java.lang.String\ getTitulo()
+comment5.params=
+comment5.target=Revisao\ getRevisao()
+comment6.params=titulo
+comment6.target=void\ setTitulo(java.lang.String)
+comment7.params=idRev\ data\ nbytes\ npalavras
+comment7.target=void\ setRivsao(long,\ java.lang.String,\ long,\ long)
+comment8.params=
+comment8.target=Artigo\ clone()
+comment9.params=o
+comment9.target=boolean\ equals(java.lang.Object)
+numComments=11
